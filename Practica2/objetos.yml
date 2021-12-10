@@ -1,0 +1,55 @@
+%YAML:1.0
+---
+circulo:
+   - { Area-Media:1.8897000000000000e+03,
+       Area-Varianza:7.8755999999999995e+02 }
+   - { Perimetro-Media:1.6291311542987825e+02,
+       Perimetro-Varianza:1.4180664266443137e+00 }
+   - { MI1-Media:1.5943406453464309e-01,
+       MI1-Varianza:2.9836204897034667e-08 }
+   - { MI2-Media:6.0803013030832280e-05,
+       MI2-Varianza:2.1656358501187384e-09 }
+   - { MI3-Media:1.9706476941749943e-06,
+       MI3-Varianza:3.8072621750454712e-12 }
+triangulo:
+   - { Area-Media:2114., Area-Varianza:2.4736999999999998e+03 }
+   - { Perimetro-Media:2.0988022890090943e+02,
+       Perimetro-Varianza:8.2435794055872635e-01 }
+   - { MI1-Media:1.8959264405727594e-01,
+       MI1-Varianza:2.6549065353191310e-06 }
+   - { MI2-Media:2.6543672077804680e-05,
+       MI2-Varianza:2.2600725617605763e-10 }
+   - { MI3-Media:4.0464391122355505e-03,
+       MI3-Varianza:7.9791691490609379e-08 }
+vagon:
+   - { Area-Media:7981., Area-Varianza:1.3797000000000000e+03 }
+   - { Perimetro-Media:4.8583194308280946e+02,
+       Perimetro-Varianza:8.0063784428206915e+01 }
+   - { MI1-Media:1.9781437318505818e-01,
+       MI1-Varianza:1.0588422279339051e-05 }
+   - { MI2-Media:7.8588854282825582e-03,
+       MI2-Varianza:9.6586872896407765e-07 }
+   - { MI3-Media:2.4363623541378568e-06,
+       MI3-Varianza:6.5872503856268225e-13 }
+rectangulo:
+   - { Area-Media:2.5938000000000002e+03,
+       Area-Varianza:1.2895999999999998e+02 }
+   - { Perimetro-Media:2.0835575604438782e+02,
+       Perimetro-Varianza:2.1140932493431137e+01 }
+   - { MI1-Media:1.7295985174303466e-01,
+       MI1-Varianza:5.3882069616075091e-07 }
+   - { MI2-Media:2.5898089972780855e-03,
+       MI2-Varianza:7.2684291916564665e-08 }
+   - { MI3-Media:1.3605471419686747e-06,
+       MI3-Varianza:9.0011158109595750e-13 }
+rueda:
+   - { Area-Media:5.5876999999999998e+03,
+       Area-Varianza:2.2181599999999999e+03 }
+   - { Perimetro-Media:3.6780410888195036e+02,
+       Perimetro-Varianza:3.2927514308360333e+02 }
+   - { MI1-Media:1.5936059354210988e-01,
+       MI1-Varianza:5.4275309351838929e-10 }
+   - { MI2-Media:1.4984549480493255e-05,
+       MI2-Varianza:3.4999456334543581e-11 }
+   - { MI3-Media:1.6608157802015263e-07,
+       MI3-Varianza:1.5810753273347641e-14 }

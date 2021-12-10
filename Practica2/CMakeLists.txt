@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project( practica2 )
+find_package( OpenCV REQUIRED )
+add_executable( aprender aprender.cpp )
+target_link_libraries( aprender ${OpenCV_LIBS} )
+add_executable( reconocer reconocer.cpp )
+target_link_libraries( reconocer ${OpenCV_LIBS} )
